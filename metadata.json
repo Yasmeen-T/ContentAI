@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Assistant",
+  "description": "Generate professional emails, LinkedIn posts, and blog reports using Google Gemini AI.",
+  "requestFramePermissions": []
+}
